@@ -22,6 +22,7 @@
 </template>
 
 <script setup>
+// hahaha
 import { ref, onMounted, onBeforeUnmount } from 'vue'
 
 const activeSection = ref('Home')
